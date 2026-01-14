@@ -1,0 +1,20 @@
+# Auto-pinned where detectable
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+scikit-image==0.26.0
+scipy==1.17.0
+plotly==5.6.0
+Pillow==12.0.0
+opencv-python==4.11.0.86
+mpire==2.10.2
+phasepack==1.5
+# feret omitted — optional visualizer dependency that requires Python ~3.11; removed to keep compatibility with Python 3.14
+scikit-learn==1.8.0
+imbalanced-learn==0.14.1
+shap==0.50.0
+# Grad-CAM for visualization used by dl_funcs_gradcam
+grad-cam==1.5.5
