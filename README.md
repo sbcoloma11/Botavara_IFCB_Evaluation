@@ -5,4 +5,4 @@ The scope of the code in the notebooks only serve as reference for the evaluatio
 
 Two types of notebooks are provided, one for CPU-only devices and the other for CUDA-enabled devices.
 
-Should you have any questions regarding the implementation of the code, please send your queries to dlonda@up.edu.ph
+Should you have any questions regarding the implementation of the code, please send your queries to dfonda@up.edu.ph
